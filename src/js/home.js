@@ -1,4 +1,4 @@
-export {initHome};
+export { initHome };
 
 function initHome() {
   const home = document.createElement('div');
